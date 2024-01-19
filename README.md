@@ -63,7 +63,7 @@ pkg install wget
 ```
 
 ```
-wget https://raw.githubusercontent.com/CodeAvek/Python-Phonenumber-check-Cli/main/phone.py
+wget https://raw.githubusercontent.com/CodeAvek/phone_number_information_using_python/main/gatherinfophone.py
 ```
 
 ```
